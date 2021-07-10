@@ -21,7 +21,7 @@ Easy To Deploy 🤗
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
 
 # Group
-You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
+You can also join our support group [HERE!](https://t.me/Rajasthan_study_quiz_group) 👨🏻‍💻
 
 # Report error
 Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
